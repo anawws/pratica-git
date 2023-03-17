@@ -11,4 +11,4 @@ def main():
     plt.plot(valores)
     plt.show()
 
-main()
+main() 
