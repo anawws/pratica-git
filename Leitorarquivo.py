@@ -13,7 +13,7 @@ class LeitorArquivo:
     def getValores(self):
         return self.valores
 
-        
+
     def getMedias(self):
         medias = []
         for serie in self.valores:

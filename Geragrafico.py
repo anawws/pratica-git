@@ -8,7 +8,7 @@ def main():
     valores = leitor.getValores()
     print(valores)
     
-      #Plotando gráfico de linhas
+    #Plotando gráfico de linhas
     plt.subplot(1, 2, 1)
 
 
